@@ -1,0 +1,16 @@
+,Algorithm,Test Accuracy
+0,Gradient Boosting BY Random Search,0.7170229359492385
+1,Gradient Boosting BY Grid Search,0.7163811034709751
+2,Gradient Boosting Tuning using graph,0.7133390201800829
+3,Gradient Boosting,0.694598363349165
+4,XGBoost,0.6917708802390823
+5,Bagging Regressor,0.6783504946462695
+6,Random Forest,0.6758614657106614
+7,KNN,0.6633681174197197
+8,ADA Boost,0.656001489551615
+9,SVR with kernel rbf,0.6273025867903322
+10,SLinear-Reg (Ridge),0.574495280730444
+11,Simple Linear Reg Model,0.5733864900223908
+12,SLinear-Reg (Lasso),0.5653820661211126
+13,Simple DT,0.4742778973580158
+14,Logistic Regression,-1.8879930179678928
